@@ -1,1 +1,4 @@
-# BitCoin_Automation_trade
+# BitCoin自動売買システム
+
+## BitCoinの自動売買を行うシステム
+### 自己責任でよろしくね。
